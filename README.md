@@ -82,4 +82,4 @@ Referência direta ao código-fonte original.
 <hr>
 
 ## Agradecimentos
-Gostaria de agradecer a [DIO](https://www.dio.me/) (Digital Innovation One) e ao professor [Felipe Aguiar](https://github.com/felipeAguiarCode) por compatilhar seu conhecimento.
+Gostaria de agradecer a [DIO](https://www.dio.me/) (Digital Innovation One) e ao professor [Felipe Aguiar](https://github.com/felipeAguiarCode) por compartilhar seu conhecimento.
